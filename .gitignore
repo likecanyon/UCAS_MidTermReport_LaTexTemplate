@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.vscode
+# Windows
+Thumbs.db
+Desktop.ini
+
+# LaTeX 编译辅助文件
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.nav
+*.snm
+*.vrb
+*.loappfig
+*.loapptab
+
+# 编译输出目录
+Tmp/
