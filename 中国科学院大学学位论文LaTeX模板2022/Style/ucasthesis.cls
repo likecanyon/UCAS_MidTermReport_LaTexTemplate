@@ -155,7 +155,7 @@
     \setlength{\ULdepth}{0.18em}% set depth
     \expandafter\ulunify\expandafter{#2}% linebreak fix
 }
-\newcommand{\ulhshift}{-4em}% horizontal shift on underline
+\newcommand{\ulhshift}{0em}% horizontal shift on underline
 \newcommand{\ulextend}[2][350pt]{% extend underline length
     \hbox to #1{\hfill\hspace*{\ulhshift}#2\hfill}}
 
